@@ -19,6 +19,7 @@
 
 <div align="center">
   <a href="https://github.com/brenoedl">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brenoedl&show_icons=true&theme=radical"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenoedl&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
