@@ -13,7 +13,7 @@
 - JavaScript
 - kotlin
 - php
-- mysql
+- banco de dados
 - python
 - android studio
 
