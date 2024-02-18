@@ -1,8 +1,6 @@
 # Oi eu sou Breno Emanuel Dantas de Lira 👋
-
-
+<img width="100%" src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif" />
 ## 📖 Eu estou estudando
-
 - c
 - c++
 - c#
@@ -16,7 +14,7 @@
 - banco de dados
 - python
 - android studio
-
+<img width="100%" src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif" />
 <div align="center">
   <a href="https://github.com/brenoedl">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brenoedl&show_icons=true&theme=dracula&rank_icon=github"/>
