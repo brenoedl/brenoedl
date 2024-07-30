@@ -32,7 +32,7 @@
   <img align="center" alt="Rafa-"mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="Rafa-"kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
 </div>
-
+<br>
 <div align="center">
   <a href="https://github.com/brenoedl">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brenoedl&show_icons=true&theme=dracula&rank_icon=github"/>
